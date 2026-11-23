@@ -1,41 +1,44 @@
 <div align="center">
 
-<img src="assets/hero-es.svg" width="100%" alt="Rafael Tanda — Ingeniero de Software Full-Stack"/>
+<img src="assets/banner-es.png" width="100%" alt="Rafael Tanda — ingeniero full-stack, desarrollo web y móvil"/>
 
 🇬🇧 [English](README.md) · 🇪🇸 **Español**
 
-<a href="https://rafael-tanda.vercel.app"><img src="assets/btn-portfolio.svg" height="44" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/rafael-tanda"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/r__tanda"><img src="assets/btn-instagram.svg" height="44" alt="Instagram"/></a>
-<a href="mailto:tandapretelrafael2005@gmail.com"><img src="assets/btn-email.svg" height="44" alt="Email"/></a>
+<a href="https://rafael-tanda.vercel.app"><img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=astro&logoColor=ff3b30&labelColor=09090b&color=1c1c21" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/rafael-tanda"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=ff3b30&labelColor=09090b&color=1c1c21" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/r__tanda"><img src="https://img.shields.io/badge/Instagram-09090b?style=for-the-badge&logo=instagram&logoColor=ff3b30&labelColor=09090b&color=1c1c21" alt="Instagram"/></a>
+<a href="mailto:tandapretelrafael2005@gmail.com"><img src="https://img.shields.io/badge/Email-09090b?style=for-the-badge&logo=gmail&logoColor=ff3b30&labelColor=09090b&color=1c1c21" alt="Email"/></a>
 
 </div>
 
-<img src="assets/h-about-es.svg" width="100%" alt="Sobre mí"/>
+Ingeniero full-stack en La Habana, Cuba. Entrego **productos web y móviles de punta a punta** para clientes reales: backends en Go y TypeScript, apps en React y apps móviles en Flutter. Trabajo con agentes de IA en el proceso, y cada cambio pasa pruebas y mi propia revisión.
 
-<img src="assets/about-es.svg" width="100%" alt="Resumen del perfil como fragmento de código: Ingeniero de Software Full-Stack en La Habana, Cuba, estudia Ciencias Informáticas en la UCI, trabaja con Go, TypeScript y Flutter, agentes de IA más pruebas más revisión, abierto a trabajar."/>
+## 🌐 Desarrollo web
 
-<img src="assets/metrics-es.svg" width="100%" alt="276 archivos de prueba en chatapp, 7 servicios Docker en chatapp, 100% app de salón offline-first, 147 commits en salon-saas"/>
+*Backend, APIs, tiempo real y PWAs.*
 
-<img src="assets/h-work-es.svg" width="100%" alt="Proyectos destacados"/>
+<table><tr><td width="50%"><a href="https://github.com/Ranta2025/chatapp"><img src="assets/project-chatapp.png" width="100%" alt="chatapp"/></a></td><td width="50%"><a href="https://github.com/Ranta2025/salon-saas"><img src="assets/project-salon-saas.png" width="100%" alt="salon-saas"/></a></td></tr></table>
+
+<a href="https://github.com/Ranta2025/portfolio"><img src="assets/project-portfolio.png" width="100%" alt="portfolio"/></a>
+
+## 📱 Desarrollo móvil
+
+*Apps offline-first para Android e iOS.*
+
+<a href="https://github.com/Ranta2025/gestion-salon"><img src="assets/project-gestion-salon.png" width="100%" alt="gestion-salon"/></a>
+
+## 🧰 Stack
+
+**Web** &nbsp; <img src="https://img.shields.io/badge/Go-09090b?style=flat-square&logo=go&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="Go"/> <img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="TypeScript"/> <img src="https://img.shields.io/badge/React-09090b?style=flat-square&logo=react&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="React"/> <img src="https://img.shields.io/badge/Gin-09090b?style=flat-square&logo=go&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="Gin"/> <img src="https://img.shields.io/badge/PostgreSQL-09090b?style=flat-square&logo=postgresql&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Redis-09090b?style=flat-square&logo=redis&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="Redis"/> <img src="https://img.shields.io/badge/Docker-09090b?style=flat-square&logo=docker&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="Docker"/> <img src="https://img.shields.io/badge/Astro-09090b?style=flat-square&logo=astro&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="Astro"/> <img src="https://img.shields.io/badge/Nginx-09090b?style=flat-square&logo=nginx&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="Nginx"/>
+
+**Móvil** &nbsp; <img src="https://img.shields.io/badge/Flutter-09090b?style=flat-square&logo=flutter&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="Flutter"/> <img src="https://img.shields.io/badge/Dart-09090b?style=flat-square&logo=dart&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="Dart"/> <img src="https://img.shields.io/badge/SQLite-09090b?style=flat-square&logo=sqlite&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="SQLite"/> <img src="https://img.shields.io/badge/PWA-09090b?style=flat-square&logo=pwa&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="PWA"/> <img src="https://img.shields.io/badge/Android-09090b?style=flat-square&logo=android&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="Android"/> <img src="https://img.shields.io/badge/iOS-09090b?style=flat-square&logo=apple&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="iOS"/>
+
+**Herramientas y más** &nbsp; <img src="https://img.shields.io/badge/Python-09090b?style=flat-square&logo=python&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="Python"/> <img src="https://img.shields.io/badge/Java-09090b?style=flat-square&logo=openjdk&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="Java"/> <img src="https://img.shields.io/badge/Godot-09090b?style=flat-square&logo=godotengine&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="Godot"/> <img src="https://img.shields.io/badge/GitHub_Actions-09090b?style=flat-square&logo=githubactions&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="GitHub_Actions"/> <img src="https://img.shields.io/badge/Playwright-09090b?style=flat-square&logo=playwright&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="Playwright"/> <img src="https://img.shields.io/badge/Claude_Code-09090b?style=flat-square&logo=anthropic&logoColor=ff3b30&labelColor=09090b&color=2a2a30" alt="Claude_Code"/>
+
+---
 
 <div align="center">
 
-<a href="https://github.com/Ranta2025/chatapp"><img src="assets/card-chatapp-es.svg" width="49%" alt="chatapp — plataforma de mensajería en tiempo real (Go, React, PostgreSQL)"/></a>
-<a href="https://github.com/Ranta2025/salon-saas"><img src="assets/card-salon-saas-es.svg" width="49%" alt="salon-saas — SaaS multi-tenant para salones (Go, React, PostgreSQL)"/></a>
-<a href="https://github.com/Ranta2025/gestion-salon"><img src="assets/card-gestion-salon-es.svg" width="49%" alt="gestion-salon — app Flutter offline-first para un salón"/></a>
-<a href="https://github.com/Ranta2025/portfolio"><img src="assets/card-portfolio-es.svg" width="49%" alt="portfolio — sitio personal y CV (Astro)"/></a>
-
-</div>
-
-<img src="assets/h-stack-es.svg" width="100%" alt="Stack tecnológico"/>
-
-<img src="assets/stack-es.svg" width="100%" alt="Stack: Go, TypeScript, Python, Dart, GDScript, Java; Gin, REST, WebSockets, PostgreSQL, Redis, SQLite, MinIO; React 19, PWA, Flutter, Godot 4; go test, Playwright, pytest, GitHub Actions, Docker Compose, Nginx, Caddy; Claude Code, opencode, MCP, skills y hooks, desarrollo por especificaciones"/>
-
-<div align="center">
-
-Los casos de estudio completos y mi CV (EN/ES) están en mi **[portfolio](https://rafael-tanda.vercel.app)** · Idiomas: español (nativo), inglés (B1)
-
-<img src="assets/footer-es.svg" width="100%" alt=""/>
+Los casos de estudio y mi CV (EN/ES) están en mi **[portfolio](https://rafael-tanda.vercel.app)**. Idiomas: español (nativo), inglés (B1).
 
 </div>
