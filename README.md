@@ -19,8 +19,6 @@ Full-stack engineer from Havana, Cuba. I ship **web and mobile products end to e
 
 <table><tr><td width="50%"><a href="https://github.com/Ranta2025/chatapp"><img src="assets/project-chatapp-en.png" width="100%" alt="chatapp"/></a></td><td width="50%"><a href="https://github.com/Ranta2025/salon-saas"><img src="assets/project-salon-saas-en.png" width="100%" alt="salon-saas"/></a></td></tr></table>
 
-<a href="https://github.com/Ranta2025/portfolio"><img src="assets/project-portfolio-en.png" width="100%" alt="portfolio"/></a>
-
 ## 📱 Mobile development
 
 *Offline-first apps for Android and iOS.*

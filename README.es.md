@@ -19,8 +19,6 @@ Ingeniero full-stack en La Habana, Cuba. Entrego **productos web y móviles de p
 
 <table><tr><td width="50%"><a href="https://github.com/Ranta2025/chatapp"><img src="assets/project-chatapp.png" width="100%" alt="chatapp"/></a></td><td width="50%"><a href="https://github.com/Ranta2025/salon-saas"><img src="assets/project-salon-saas.png" width="100%" alt="salon-saas"/></a></td></tr></table>
 
-<a href="https://github.com/Ranta2025/portfolio"><img src="assets/project-portfolio.png" width="100%" alt="portfolio"/></a>
-
 ## 📱 Desarrollo móvil
 
 *Apps offline-first para Android e iOS.*
