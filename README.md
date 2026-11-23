@@ -23,7 +23,7 @@ Full-stack engineer from Havana, Cuba. I ship **web and mobile products end to e
 
 *Offline-first apps for Android and iOS.*
 
-<table><tr><td width="50%"><a href="https://github.com/Ranta2025/gestion-salon"><img src="assets/project-gestion-salon-en.png" width="100%" alt="gestion-salon"/></a></td><td width="50%"><img src="assets/project-inventario-mipyme-en.png" width="100%" alt="inventario-mipyme"/><br/><sub>🔒 Private repository — available on request</sub></td></tr></table>
+<table><tr><td width="50%"><a href="https://github.com/Ranta2025/gestion-salon"><img src="assets/project-gestion-salon-en.png" width="100%" alt="gestion-salon"/></a></td><td width="50%"><img src="assets/project-inventario-mipyme-en.png" width="100%" alt="inventario-mipyme"/><br/><sub>🔒 Private repository</sub></td></tr></table>
 
 ## 🧰 Stack
 

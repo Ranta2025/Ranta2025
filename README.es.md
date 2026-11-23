@@ -23,7 +23,7 @@ Ingeniero full-stack en La Habana, Cuba. Entrego **productos web y móviles de p
 
 *Apps offline-first para Android e iOS.*
 
-<table><tr><td width="50%"><a href="https://github.com/Ranta2025/gestion-salon"><img src="assets/project-gestion-salon.png" width="100%" alt="gestion-salon"/></a></td><td width="50%"><img src="assets/project-inventario-mipyme.png" width="100%" alt="inventario-mipyme"/><br/><sub>🔒 Repositorio privado — disponible bajo petición</sub></td></tr></table>
+<table><tr><td width="50%"><a href="https://github.com/Ranta2025/gestion-salon"><img src="assets/project-gestion-salon.png" width="100%" alt="gestion-salon"/></a></td><td width="50%"><img src="assets/project-inventario-mipyme.png" width="100%" alt="inventario-mipyme"/><br/><sub>🔒 Repositorio privado</sub></td></tr></table>
 
 ## 🧰 Stack
 
